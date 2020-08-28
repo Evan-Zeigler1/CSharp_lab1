@@ -19,6 +19,8 @@ namespace CSharp_lab1
              /*To create a C# program, you need to install an integrated development environment (IDE) with coding and 
             debugging tools.*/
             
+             Console.WriteLine("Learning C#");
+            
             
 
         }
