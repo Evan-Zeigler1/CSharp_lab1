@@ -10,6 +10,11 @@ namespace CSharp_lab1
            
              int num;
             num = 42;
+            
+            bool a = false;
+            double b = 4.22;
+            string c = "Hi";
+            int d = 11; ;
 
         }
     }
