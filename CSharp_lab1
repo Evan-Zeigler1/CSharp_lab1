@@ -45,8 +45,11 @@ namespace CSharp_lab1
             int x = 42;
             x / = 3;
 
-            
-            
+             static void Main(string[] args)
+            {
+                string msg = "Hello";
+                Console.WriteLine(msg);
+            }
 
         }
     }
