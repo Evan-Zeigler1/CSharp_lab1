@@ -20,6 +20,20 @@ namespace CSharp_lab1
             debugging tools.*/
             
              Console.WriteLine("Learning C#");
+             
+            string temp;
+            temp = Console.ReadLine();
+
+            /*
+             Declaring an integer
+              and printing it 
+            */
+            int x = 42;
+            Console.WriteLine(x);
+
+            n1 = true;
+            Console.WriteLine(n1);
+
             
             
 
