@@ -15,6 +15,11 @@ namespace CSharp_lab1
             double b = 4.22;
             string c = "Hi";
             int d = 11; ;
+            
+             /*To create a C# program, you need to install an integrated development environment (IDE) with coding and 
+            debugging tools.*/
+            
+            
 
         }
     }
